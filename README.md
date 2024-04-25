@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivani yadav
-- 👀 I’m interested in making and developing projects in Python
+- Data Engineer
 - 
 
 <!---
